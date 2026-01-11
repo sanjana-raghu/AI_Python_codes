@@ -13,7 +13,7 @@ Through this lab, I learned:
 
 ---
 
-## 🧪 List of Experiments I Performed
+## List of Experiments I Performed
 
 ### Part A – Python Programming
 
@@ -52,7 +52,7 @@ Through this lab, I learned:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Programming Language:** Python  
 - **AI Concepts:**  
@@ -64,7 +64,7 @@ Through this lab, I learned:
 
 ---
 
-## ▶️ How to Run the Programs
+## How to Run the Programs
 
 1. Install Python (version 3.x recommended)
 2. Clone this repository:
